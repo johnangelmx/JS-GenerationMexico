@@ -55,7 +55,7 @@ Por ejemplo, si n = 6 imprime [1] [2] [3] [4] [5] [6]
  */
 let cifraImprimir = 6, contador = 1;
 while (contador <= cifraImprimir) {
-    console.log(contador)
+    console.log(`[${contador}]`)
     contador++;
 }
 /*
